@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **emonismail44@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive][(https://drive.google.com/drive/u/0/my-drive)](https://drive.google.com/file/d/17QncreULBqDrvUakDEuAUuk7Ms0CgNMF/view?usp=sharing)
 
 
 
