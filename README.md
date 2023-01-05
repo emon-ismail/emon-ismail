@@ -4,7 +4,14 @@
 
 Dreamer 🌟⭐🌠
 
-Skills:  REACT / JS / HTML / CSS/TAILWIND CSS/BOOTSTRAP/NODE JS/MONGODB/FIREBASE/UI/UX DESIGN
+Skills:
+Expert: React, JavaScript, ES6, Html, CSS, Bootstrap, React Bootstrap, Tailwind CSS, Daisy
+UI.
+Comfortable with: Node, MongoDB, API, and Firebase.
+Familiar with: JWT, C, C++, C++, Java, JavaSwing Application, Oracle MySql, PHP and
+Python.
+Tools: VS Code, Figma, Github, Vercel, Netlify, Netbeans, Adobe XD,.
+
 
 
 
