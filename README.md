@@ -10,6 +10,9 @@
 - My portfolio [https://iemon.netlify.app/](https://iemon.netlify.app/)
 
 - 📫 How to reach me **emonismail44@gmail.com**
+- Linkdin:  https://www.linkedin.com/in/mohammad-ismail-emon-b40190220/
+- Facebook: https://www.facebook.com/ismail.emon.180/
+- Behance : https://www.behance.net/emon44
 
 - 📄 Know about my experiences :[(https://drive.google.com/drive/u/0/my-drive)](https://drive.google.com/file/d/17QncreULBqDrvUakDEuAUuk7Ms0CgNMF/view?usp=sharing)
 
