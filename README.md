@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Next JS**
 
 - My portfolio [https://iemon.netlify.app/](https://iemon.netlify.app/)
+- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 📫 How to reach me **emonismail44@gmail.com**
 - Linkdin:  https://www.linkedin.com/in/mohammad-ismail-emon-b40190220/
@@ -15,7 +16,7 @@
 - Behance : https://www.behance.net/emon44
 
 - 📄 Know about my experiences :[(https://drive.google.com/drive/u/0/my-drive)](https://drive.google.com/file/d/17QncreULBqDrvUakDEuAUuk7Ms0CgNMF/view?usp=sharing)
-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 
 
