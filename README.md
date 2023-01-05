@@ -1,12 +1,29 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, I'm Mohammad Ismail Emon
+#### Full Stack web developer
+![Full Stack web developer](https://media.licdn.com/dms/image/D5616AQHZEn16Jc9ewQ/profile-displaybackgroundimage-shrink_350_1400/0/1672908095788?e=1678320000&v=beta&t=Bs6qWB93rvaKppUqT5-Vi8XT8LB3l0SxBr0itR-4Awg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Dreamer 🌟⭐🌠
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills:
 
-- 🔭 I’m currently working on this page. 
+
+## Expert:
+React, JavaScript, ES6, Html, CSS, Bootstrap, React Bootstrap, Tailwind CSS, Daisy
+UI.
+
+
+## Comfortable with:
+Node, MongoDB, API, and Firebase.
+
+
+
+## Familiar with:
+JWT, C, C++, C++, Java, JavaSwing Application, Oracle MySql, PHP and
+Python.
+
+## Tools: 
+VS Code, Figma, Github, Vercel, Netlify, Netbeans, Adobe XD,.
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/emon-ismail)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mohammad-ismail-emon-b40190220//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ismail.emon.180/)  
@@ -24,3 +41,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=emon-ismail)  
 
 ![Profile views](https://gpvc.arturio.dev/emon-ismail)  
+
+
+
+
