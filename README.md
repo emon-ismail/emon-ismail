@@ -7,21 +7,21 @@ Dreamer 🌟⭐🌠
 Skills:
 
 
-##Expert:
+## Expert:
 React, JavaScript, ES6, Html, CSS, Bootstrap, React Bootstrap, Tailwind CSS, Daisy
 UI.
 
 
-##Comfortable with:
+## Comfortable with:
 Node, MongoDB, API, and Firebase.
 
 
 
-##Familiar with:
+## Familiar with:
 JWT, C, C++, C++, Java, JavaSwing Application, Oracle MySql, PHP and
 Python.
 
-##Tools: 
+## Tools: 
 VS Code, Figma, Github, Vercel, Netlify, Netbeans, Adobe XD,.
 
 
