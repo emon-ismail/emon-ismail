@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohammad-ismail-emon-b40190220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohammad-ismail-emon-b40190220" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/www.linkedin.com/in/mohammad-ismail-emon-b40190220](https://www.behance.net/emon44)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohammad-ismail-emon-b40190220" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/ismail.emon.180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ismail.emon.180/" height="30" width="40" /></a>
 <a href="https://www.behance.net/ismail emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ismail emon" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/emon_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="emon_official" height="30" width="40" /></a>
