@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emon-ismail" alt="emon-ismail" /></a> </p>
 
 - 🌱 I’m currently learning **Next JS**
-
 - My portfolio [https://iemon.netlify.app/](https://iemon.netlify.app/)
 - <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
