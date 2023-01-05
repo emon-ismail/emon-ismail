@@ -36,7 +36,7 @@ VS Code, Figma, Github, Vercel, Netlify, Netbeans, Adobe XD,.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=emon-ismail&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=emon-ismail)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=emon-ismail)  
 
